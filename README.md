@@ -1,6 +1,6 @@
 ## ReactiveFormValidation
 ### Execute Following Commands first in Project root folder:
-npm install
+npm install <br>
 npm install bootstrap@3 jquery --save <br><br>
 
 ### For running project :
